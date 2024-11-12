@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Pedro
+- 👀 I’m interested in learnig tha most i can.
+- 🌱 I’m currently learning C, i'm just a begginer
